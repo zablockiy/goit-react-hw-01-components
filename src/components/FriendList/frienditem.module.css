@@ -10,6 +10,10 @@
   box-shadow: 2px 2px 10px 2px #b7a774;
 }
 
+.item:hover {
+    background-color: rgb(162, 158, 158);
+  }
+
 .status {
   width: 10px;
   height: 10px;

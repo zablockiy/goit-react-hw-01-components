@@ -10,6 +10,10 @@
   box-shadow: 2px 2px 10px 2px #b7a774;
 }
 
+.profile:hover {
+    background-color: rgb(162, 158, 158);
+  }
+
 .description {
   display: flex;
   flex-direction: column;

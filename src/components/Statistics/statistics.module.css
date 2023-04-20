@@ -30,8 +30,10 @@
   align-items: center;
   flex-basis: calc(100% / 5);
   padding: 15px;
-
 }
+.item:hover {
+    background-color: rgb(162, 158, 158);
+  }
 
 .label {
   color: #622929;
